@@ -1,7 +1,7 @@
 {
-    "name": "SHS Games",
+    "name": "Lehman Games",
     "description": "Unblocked Games",
-    "repository": "https://github.com/SHSGames/shsgames.github.io",
-    "logo": "https://cdn.jsdelivr.net/gh/SHSGames/shsgames.github.io@master/web/static/icon.png",
+    "repository": "https://github.com/pythonindenthater4444/computerscience",
+    "logo": "https://alisteducation.com/wp-content/uploads/2020/11/lehman.png",
     "keywords": ["node", "express", "static"]
 }
